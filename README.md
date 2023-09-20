@@ -1,4 +1,5 @@
-<--![MasterHead](https://github.com/Malcolm-xXx/Malcolm-xXx/blob/main/banner.png)-->
+<!--![MasterHead](https://github.com/Malcolm-xXx/Malcolm-xXx/blob/main/banner.png)-->
+<img src= "https://github.com/Malcolm-xXx/Malcolm-xXx/blob/main/banner.png" alt="malcolm-xxx" align="center" width="400">
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A passionate Front Ended Developer And Mobile Developer With An Enthusiast For Anything Code. Also Diving Into The World Of Web3(smart contracts), phyton(Trading bot algorithm) ,C++, SQL a bit of Understanding Of Backends Languages</h3>
 <img src= "https://github.com/Malcolm-xXx/Malcolm-xXx/blob/main/readme-image.jpg" alt="malcolm-xxx" align="right" width="400">
