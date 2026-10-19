@@ -38,11 +38,14 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_aftereffects/adobe_aftereffects-icon.svg" alt="aftereffects" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_premiere/adobe_premiere-icon.svg" alt="premierepro" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> </a>
 </p>
+
+<h3 align="left">Creative & Video:</h3>
+<p align="left">🎬 CapCut &nbsp;·&nbsp; DaVinci Resolve &nbsp;·&nbsp; Blender</p>
+
+<h3 align="left">Engineering & CAD:</h3>
+<p align="left">⚙️ Autodesk Fusion 360 &nbsp;·&nbsp; KiCad &nbsp;·&nbsp; Altium &nbsp;·&nbsp; EasyEDA &nbsp;·&nbsp; LTspice</p>
 
 <br/>
 
